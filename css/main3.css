@@ -1,0 +1,6 @@
+.box{
+    width: 1500px;
+    height: 1000px;
+    background: radial-gradient(red,yellow,green);
+    margin: 200px auto;
+}

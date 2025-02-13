@@ -1,0 +1,32 @@
+.wrap{
+    width: 2000px;
+    height: 2500px;
+    background: linear-gradient(135deg,purple,blue);
+    margin: 200px auto;
+}
+.box{
+    width: 1000px;
+    height: 1000px;
+    border: 1px solid white;
+    border-radius: 200px;
+    margin: 200px auto;
+    background-color: white;
+    margin-top: -1900px;
+}
+.box-item-1{
+    font-size: 400px;
+    margin-top: 280px;
+    color: orange;
+}
+.box-item-2{
+    font-size: 400px;
+    margin-top: -450px;
+    margin-left: 500px;
+    color: blue;
+}
+.box-item-3{
+    font-size: 400px;
+    margin-left: 680px;
+    margin-top: -470px;
+    color: darkblue;
+}

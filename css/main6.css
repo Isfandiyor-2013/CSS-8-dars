@@ -1,0 +1,19 @@
+.box1{
+    width: 1500px;
+    height: 500px;
+    background: linear-gradient(180deg,brown,blue,green);
+    color: white;
+    margin: 200px auto;
+}
+.box2{
+    width: 1500px;
+    height: 500px;
+    background: linear-gradient(90deg,orange,yellow,green,blue,purple);
+    color: white;
+    margin: 200px auto;
+}
+p{
+    font-size: 50px;
+    text-align: center;
+    line-height: 500px;
+}

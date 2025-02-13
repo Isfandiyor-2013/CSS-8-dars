@@ -1,0 +1,16 @@
+.box{
+    width: 1500px;
+    height: 1000px;
+    background: radial-gradient(green,white,blue);
+    margin: 200px auto;
+}
+h1{
+    text-align: center;
+    line-height: 900px;
+    font-size: 130px;
+}
+p{
+    font-size: 50px;
+    text-align: center;
+    margin-top: -480px;
+}
